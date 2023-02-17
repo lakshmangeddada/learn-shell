@@ -1,6 +1,11 @@
 #How to create calculator using shell script
 #!/bin/bash
+#installing git in server
+sudo yum install git -y
+git --version
 
+
+#calculator
 echo "Enter the first number:"
 read num1
 
