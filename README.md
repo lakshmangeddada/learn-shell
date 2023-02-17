@@ -11,5 +11,5 @@ loops
 inputs
 quotes
 exit status
-redirectors
+#redirectors
 ```
