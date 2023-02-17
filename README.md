@@ -1,8 +1,8 @@
 # learn-shell
 
 shell scripting topics
-"""text
+```text
 print
 variables
 strings
-"""
+```
