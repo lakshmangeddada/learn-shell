@@ -4,5 +4,12 @@ shell scripting topics
 ```text
 print
 variables
-strings
+comments
+functions
+conditions
+loops
+inputs
+quotes
+exit status
+redirectors
 ```
