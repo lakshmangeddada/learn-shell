@@ -30,3 +30,4 @@ elif [ "${name}" == "AWS"  ]; then
 else
     echo No Course Available
 fi
+
