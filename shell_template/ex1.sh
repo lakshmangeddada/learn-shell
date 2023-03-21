@@ -6,5 +6,4 @@ file=demo.sh
 touch $dir/$file
 echo "#!/bin/bash" >>$file
 echo "purpose:" >>$file
-DATE=$(date)
-echo "created date -" ${DATE} >>$file
+echo "created date -" date >>$file
