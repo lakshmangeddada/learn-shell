@@ -4,3 +4,5 @@ read -r dir
 mkdir $dir
 file=demo.sh
 touch $dir/$file
+echo "#!/bin/bash" >>$file
+echo "purpose:" >>$file
